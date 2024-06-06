@@ -1,0 +1,22 @@
+/* style.css */
+.name {
+    background-color: rgb(246, 226, 202);
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+.description{
+    font-size: 13px;
+    font-weight: 500;
+    color: white;
+    background-color: darkblue;
+}
+
+.name.header{
+    color: rgb(79, 130, 174);
+}
+
+.img {
+    height:auto;
+    width: 500px;
+}
