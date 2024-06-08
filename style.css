@@ -1,4 +1,7 @@
 /* style.css */
+*{
+    box-sizing: border-box;
+}
 .name {
     background-color: rgb(246, 226, 202);
     font-family: 'Times New Roman', Times, serif;
